@@ -1,0 +1,93 @@
+.left,
+.right {
+  width: 50%;
+  position: relative;
+  
+}
+.flex {
+  display: flex;
+}
+
+.home {
+  height: 100vh;
+  justify-content : center;
+    
+}
+.topMargin {
+  margin-top: 80px;
+}
+.home .img {
+  height: 60vh;
+  width: 100%;
+  position: relative;
+  margin-top: 50px;
+}
+.home img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 70vh;
+  width: 100%;
+  object-fit: contain;
+  transform: scale(1.1);
+ 
+}
+.home h1 {
+  font-size: 50px;
+}
+
+button {
+  background: none;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.primary-btn {
+  padding: 15px 40px;
+  background: #38d16a;
+}
+.primary-btn:hover {
+  background: #f54ea2;
+  box-shadow: 0 13px 27px 0 rgb(245 78 162 / 25%);
+}
+.home .right {
+  margin-top: 10%;
+}
+
+.home p {
+  margin-bottom: 20px;
+}
+p {
+  color: #6185a5;
+  line-height: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .left,
+  .right {
+    width: 100%;
+  }
+  .home .container {
+    flex-direction: column;
+    flex-direction: column-reverse;
+  }
+  .home {
+    height: 134vh;
+  }
+  .home .img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+  }
+  .home img {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    transform: scale(1);
+  }
+}
