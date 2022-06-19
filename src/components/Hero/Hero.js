@@ -1,27 +1,34 @@
-import React from 'react'
-import "./Hero.css"
+import React from "react";
+import "./Hero.css";
 
 const Hero = () => {
   return (
-  <>
-  <section className='home'>
-    <div className='container flex'>
-      <div className='left'>
-        <div className='img'>
-          <img src='https://res.cloudinary.com/djw882kt3/image/upload/v1655452120/Media/DSC_2843_lfemev.jpg'alt=''/>
-        </div>
-      </div>
-      <div className='right topMargin'>
-            <h1>
-              Wedding Organizer JABODETABEK
-            </h1>
-            <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <button className='primary-btn'>Contact Us</button>
+    <>
+      <div className="main">
+        <div className="main__container">
+          <div className="main__content">
+            <h1>Wedding Organizer</h1>
+            <h2>Oemah Manten</h2>
+            <p>
+              OemahManten adalah penyedia jasa untuk memudahkan anda <br/>dalam
+              menyiapkan pernikahan. kami menyediakan berbagai<br/> paket pernikahan
+              dengan harga yang terjangkau
+            </p>
+            <button className="main__btn">
+              <a href="#">View Pricelist</a>
+            </button>
+          </div>
+          <div className="main__img--container">
+            <img
+              src="https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-2_zk417c.jpg"
+              alt="wedding"
+              id="main__img"
+            />
           </div>
         </div>
-  </section>
-  </>
-  )
-}
+      </div>
+    </>
+  );
+};
 
-export default Hero
+export default Hero;
