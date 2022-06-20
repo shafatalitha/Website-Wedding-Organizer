@@ -25,7 +25,7 @@ function Cards() {
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg'
               text='Paket Diamond Wedding'
               label='IDR 30.000.000'
-              path='/services'
+              path='/diamond'
             />
           </ul>
           <ul className='cards__items'>

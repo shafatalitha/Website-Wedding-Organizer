@@ -31,6 +31,28 @@ body {
   .image-grid-row-2 {
     grid-row: span 2;
   }
+  /* .details__items{
+    display: flex;
+    flex: 1;
+    margin: 0 16rem;
+  } */
+
+  .details__items{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  margin: 0 16rem;
+  }
+  
+  .details__item{
+    list-style-type:none;
+
+
+
+   
+  }
+
+  
   
   /* Anything udner 1024px */
   @media screen and (max-width: 1024px) {

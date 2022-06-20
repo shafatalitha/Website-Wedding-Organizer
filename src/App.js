@@ -6,6 +6,7 @@ import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer/Footer"
 import Blog from "./pages/Blog"
 import Gold from "./pages/Gold"
+import Diamond from "./pages/Diamond"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/gold" element={<Gold />} />
+          <Route path="/diamond" element={<Diamond/>}/>
         </Routes>
         <Footer/>
         
