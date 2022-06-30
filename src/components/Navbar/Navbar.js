@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-const Navbar = () => {
+import Home from "../../pages/Home";
+const Navbar = (refPriceList) => {
   const [click, setClick] = useState(false);
   const [ button, setButton] = useState(true);
 
@@ -43,8 +44,8 @@ const Navbar = () => {
           </Link>
         </li>
         <li className="nav-item">
-          <Link to="/blog" className="nav-links" onClick={closeMobileMenu}>
-            Blog
+          <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            Pricelist
           </Link>
         </li>
       </ul>
