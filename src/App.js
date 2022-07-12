@@ -1,14 +1,14 @@
 import Navbar from "./components/Navbar/Navbar"
 import Home from "./pages/Home"
-import About from "./pages/About"
 import "./App.css"
+import About from "./pages/About"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer/Footer"
-import Testimoni from "./pages/Testimoni"
 import Gold from "./pages/Gold"
-import Diamond from "./pages/Diamond"
+import Diamondpage from "./pages/diamondPage"
 import { useRef } from "react"
-import Cards from "./components/Cards/Cards"
+import Testimonials from "./components/Testimoni/Testimonials"
+import Silverpage from "./pages/silverPage"
 
 function App() {
   const refPriceList = useRef(null);
@@ -18,9 +18,11 @@ function App() {
       <div className="container">
         <Routes>       
           <Route path="/about" element={<About />} />
-          <Route path="/" element={<Home refPriceList />} />
+          <Route path="/" element={<Home refPriceList={refPriceList} />} />
           <Route path="/gold" element={<Gold />} />
-          <Route path="/diamond" element={<Diamond/>}/>
+          <Route path="/diamond" element={<Diamondpage/>}/>
+          <Route path ="/testimonials" element={<Testimonials/>}/>
+          <Route path ="/silver" element={<Silverpage/>}/>
         </Routes>
         <Footer/>
         

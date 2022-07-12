@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import Home from "../../pages/Home";
 const Navbar = (refPriceList) => {
   const [click, setClick] = useState(false);
   const [ button, setButton] = useState(true);
@@ -16,6 +15,15 @@ const Navbar = (refPriceList) => {
       setButton(true);
     }
   };
+
+  // const handleClickPriceList = () => {
+  //   closeMobileMenu();
+  
+  //   window.scrollTo({
+  //     top: refPriceList.current.offsetTop,
+  //     behavior: 'smooth',
+  //   });
+  // }
 
   // useEffect(() => {
   //   showButton();
@@ -44,8 +52,13 @@ const Navbar = (refPriceList) => {
           </Link>
         </li>
         <li className="nav-item">
-          <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+          <Link to="/pricelist" className="nav-links" onClick={closeMobileMenu}>
             Pricelist
+          </Link>
+        </li>
+        <li className="nav-item">
+          <Link to="/testimonials" className="nav-links" onClick={closeMobileMenu}>
+            Testimoni
           </Link>
         </li>
       </ul>

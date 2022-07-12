@@ -15,7 +15,7 @@ const Hero = () => {
               dengan harga yang terjangkau
             </p>
             <button className="main__btn">
-              <a href="#">View Pricelist</a>
+            <a href="https://wa.wizard.id/78dbb1" target="_blank">Contact us</a>
             </button>
           </div>
           <div className="main__img--container">
