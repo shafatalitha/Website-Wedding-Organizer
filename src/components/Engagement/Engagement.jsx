@@ -1,12 +1,12 @@
 import React from "react";
 import "../Plans/Plans.css";
-import { diamondData } from "../../Data/diamondData"
+import { engagementData } from "../../Data/engagementData"
 import "../Diamond/Diamond.css"
-const Silver = () => {
+const Engagement=()=> {
   return (
     <>
     <div className="title">
-        <h1>Silver Package</h1>
+        <h1>Engagement Package</h1>
       </div>
       <div className="image-grid">
         <img
@@ -37,7 +37,7 @@ const Silver = () => {
     
     <div className="plans-container">
       <div className="plans">
-        {diamondData.map((plan, i) => (
+        {engagementData.map((plan, i) => (
           <div className="plan" key={i}>
             {plan.icon}
             <span>{plan.name}</span>
@@ -57,4 +57,4 @@ const Silver = () => {
   );
 };
 
-export default Silver;
+export default Engagement;

@@ -13,7 +13,7 @@ function Cards({ refPriceList }) {
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566640/Media/wedding_wcihya.jpg'
               text='Paket Silver Wedding '
               label='IDR 21.000.000'
-              path='/about'
+              path='/silver'
             />
             <CardItem
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/nikah_zmm45x.jpg'
@@ -33,19 +33,19 @@ function Cards({ refPriceList }) {
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566640/Media/mua_lxllww.jpg'
               text='Paket MUA '
               label='Start from 6.000.000'
-              path='/services'
+              path='/mua'
             />
             <CardItem
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655627822/Media/musik_pcidge.jpg'
               text='Paket Entertainment'
-              label='Start from IDR 3000.000'
-              path='/products'
+              label='Start from IDR 1000.000'
+              path='/entertainment'
             />
             <CardItem
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655568304/Media/tunangan_dcviol.jpg'
               text='Paket Engagement'
               label='IDR 7.500.000'
-              path='/sign-up'
+              path='/engagement'
             />
           </ul>
           <ul className='cards__items'>
