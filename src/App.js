@@ -11,6 +11,8 @@ import Silver from "./components/Silver/Silver"
 import Mua from "./components/Mua/Mua"
 import Entertainment from "./components/Entertainment/Entertainment"
 import Engagement from "./components/Engagement/Engagement"
+import Dokumentasi from "./components/Dokumentasi/Dokumentasi"
+import Jawa from "./components/Jawa/Jawa"
 
 function App() {
 
@@ -28,6 +30,8 @@ function App() {
           <Route path ="/mua" element={<Mua/>}/>
           <Route path ="/entertainment" element={<Entertainment/>}/>
           <Route path ="/engagement" element={<Engagement/>}/>
+          <Route path ="/dokumentasi" element={<Dokumentasi/>}/>
+          <Route path ="/jawa" element={<Jawa/>}/>
         </Routes>
         <Footer/>
         

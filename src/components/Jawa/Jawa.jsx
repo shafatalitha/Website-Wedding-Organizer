@@ -1,12 +1,12 @@
 import React from "react";
 import "../Plans/Plans.css";
-import { dokumentasiData } from "../../Data/dokumentasiData"
+import { jawaData } from "../../Data/jawaData"
 import "../Diamond/Diamond.css"
-const Dokumentasi=()=> {
+const Jawa=()=> {
   return (
     <>
     <div className="title">
-        <h1>Dokumentasi Package</h1>
+        <h1>Adat Jawa Package</h1>
       </div>
       <div className="image-grid">
         <img
@@ -37,7 +37,7 @@ const Dokumentasi=()=> {
     
     <div className="plans-container">
       <div className="plans">
-        {dokumentasiData.map((plan, i) => (
+        {jawaData.map((plan, i) => (
           <div className="plan" key={i}>
             {plan.icon}
             <span>{plan.name}</span>
@@ -57,4 +57,4 @@ const Dokumentasi=()=> {
   );
 };
 
-export default Dokumentasi;
+export default Jawa;

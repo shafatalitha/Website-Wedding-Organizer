@@ -53,13 +53,13 @@ function Cards({ refPriceList }) {
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-3_kjclfs.jpg'
               text='Paket Dokumentasi'
               label='Start from IDR 3000.000'
-              path='/services'
+              path='/dokumentasi'
             />
             <CardItem
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655575207/Media/jawa_py7ufr.jpg'
               text='Paket Adat Jawa'
               label='Start from IDR 1000.000'
-              path='/products'
+              path='/jawa'
             />
             <CardItem
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655575208/Media/sunda_gdfino.jpg'
