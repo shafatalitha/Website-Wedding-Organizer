@@ -42,6 +42,9 @@
     background-color: #ecf5f5;
     color: #00999c;
 }
+.Peta{
+    padding-top: 100px;
+}
 @media screen and (max-width:1200px){
     .inner-section{
         padding: 80px;

@@ -1,8 +1,8 @@
 import React from 'react'
-import Cards from '../components/Cards/Cards'
 import Hero from '../components/Hero/Hero'
 import Best from '../components/Best/Best'
 import Reasons from '../components/Reasons/Reasons'
+import Demo from '../components/Demo/Demo'
 
 
 const Home=()=> {
@@ -12,7 +12,8 @@ const Home=()=> {
         <Hero/>
         <Reasons/>
         <Best/>
-        <Cards />
+        <Demo/>
+        
       </>
     )
   }

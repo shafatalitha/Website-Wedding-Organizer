@@ -4,6 +4,7 @@ import "./App.css"
 import About from "./pages/About"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer/Footer"
+import Cards from "./components/Cards/Cards"
 import Gold from "./pages/Gold"
 import Testimonials from "./components/Testimoni/Testimonials"
 import Diamond from "./components/Diamond/Diamond"
@@ -23,6 +24,7 @@ function App() {
         <Routes>       
           <Route path="/about" element={<About />} />
           <Route path ="/testimonials" element={<Testimonials/>}/>
+          <Route path="/pricelist" element={<Cards/>}/>
           <Route path="/" element={<Home/>} />
           <Route path="/gold" element={<Gold />} />
           <Route path="/diamond" element={<Diamond/>}/>
