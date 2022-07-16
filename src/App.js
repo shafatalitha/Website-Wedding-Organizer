@@ -15,7 +15,7 @@ import Engagement from "./components/Engagement/Engagement"
 import Dokumentasi from "./components/Dokumentasi/Dokumentasi"
 import Jawa from "./components/Jawa/Jawa"
 import Sunda from "./components/Sunda/Sunda"
-
+import Share from "./components/Share/Share"
 function App() {
 
   return (
@@ -37,6 +37,7 @@ function App() {
           <Route path ="/pricelist/adat-jawa" element={<Jawa/>}/>
           <Route path ="/pricelist/adat-sunda" element={<Sunda/>}/>
         </Routes>
+        <Share/>
         <Footer/>
         
       </div>

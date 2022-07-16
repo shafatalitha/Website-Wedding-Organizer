@@ -35,7 +35,7 @@ const Footer = () => {
               Jl. Puspanegara RT.02 RW.08 No.131, Citeureup, Bogor
             </small>
           </div>
-          <small className="website-rights">Oemah © 2022</small>
+          <small className="website-rights">Oemah Manten © 2022</small>
           <div className="social-icons">
             <a
               href="https://www.tiktok.com/@oemahmanten.99"

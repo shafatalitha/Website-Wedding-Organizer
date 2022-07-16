@@ -1,0 +1,18 @@
+.share-social{
+    background: '#fff';
+    height: '5vh';
+    width: '100%';
+    margin-Left:'22vh';
+    margin-Bottom:'12vh';
+
+  }
+
+  /* @media screen and (max-width: 540px) {
+    .social-share{
+        background: '#fff';
+        height:'30vh';
+        width: '100%';
+        margin-Left:'5vh';
+        margin-Bottom:'12vh';
+    
+      }} */
