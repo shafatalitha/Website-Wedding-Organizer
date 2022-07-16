@@ -23,8 +23,8 @@ function App() {
 <Navbar />
       <div className="container">
         <Routes>       
-          <Route path="/about" element={<About />} />
-          <Route path ="/testimonials" element={<Testimonials/>}/>
+          <Route path="/about-us" element={<About />} />
+          <Route path ="/testimoni" element={<Testimonials/>}/>
           <Route path="/pricelist" element={<Cards/>}/>
           <Route path="/" element={<Home/>} />
           <Route path="/gold" element={<Gold />} />

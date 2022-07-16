@@ -7,6 +7,11 @@
     margin-top:10%;
     margin-bottom: 20%
   }
+  .judul-testimoni{
+    text-align: center;
+    padding:3rem;
+    font-size:2rem;
+  }
   
   .carousel .slide {
     background: #fff !important;

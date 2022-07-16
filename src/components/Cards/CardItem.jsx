@@ -1,9 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import {Helmet} from 'react-helmet-async';
 function CardItem(props) {
   return (
     <>
+    <Helmet>
+      <title>harga wedding organizer</title>
+      <meta name="description" content="Harga wedding organizer murah dan terpercaya di Bogor"/>
+      <link rel='canonical' href="/pricelist"></link>
+
+    </Helmet>
       <li className='cards__item'>
         <Link className='cards__item__link' to={props.path}>
           <figure className='cards__item__pic-wrap' data-category={props.label}>
@@ -11,6 +17,9 @@ function CardItem(props) {
               className='cards__item__img'
               alt='Paket Wedding'
               src={props.src}
+              height= "40"
+              width="40"
+              title="harga wedding organizer"
             />
           </figure>
           <div className='cards__item__info'>

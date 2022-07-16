@@ -5,12 +5,12 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards' id='pricelist' >
-      <h2>PRICELIST</h2>
+      <h1>Harga Paket Oemah Manten</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566640/Media/wedding_wcihya.jpg'
+              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566640/Media/wedding_wcihya.jpg' 
               text='Paket Silver Wedding '
               label='IDR 21.000.000'
               path='/silver'

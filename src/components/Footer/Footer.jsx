@@ -9,8 +9,8 @@ const Footer = () => {
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/testimonials">Testimonials</Link>
-            <Link to="/about">Lokasi</Link>
+            <Link to="/testimoni">Testimoni</Link>
+            <Link to="/about-us">Lokasi</Link>
           </div>
           <div className="footer-link-items">
             <h2>Contact Us</h2>

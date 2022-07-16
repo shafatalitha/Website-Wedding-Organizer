@@ -1,11 +1,20 @@
 import React from "react";
 import "./About.css";
+import {Helmet} from 'react-helmet-async';
+
 export default function About() {
   return (
+    <>
+    <Helmet>
+    <title>wedding organizer Bogor</title>
+    <meta name="description" content="Jasa Wedding organizer murah di Bogor, menyediakan pilihan paket untuk tunangan,prewedding dan pernikahan adat maupun modern"/>
+    <link rel='canonical' href="/about-us"></link>
+
+  </Helmet>
     <div className="content">
       <div class="about">
         <div class="inner-section">
-          <h2>About Us</h2>
+          <h1>Sejarah singkat Oemah Manten</h1>
           <p className="text">
             Oemah Manten adalah perusahaan yang bergerak di bidang perencanaan,
             pengaturan, dan penyelenggaraan pernikahan. Dimulai dari proses
@@ -28,5 +37,6 @@ export default function About() {
         </div>
       </div>
     </div>
+    </>
   );
 }
