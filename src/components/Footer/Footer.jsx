@@ -1,80 +1,72 @@
-import React from 'react'
+import React from "react";
 import { Link } from "react-router-dom";
-import './Footer.css'
+import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div className='footer-container'>
-      <div className='footer-links'>
-        <div className='footer-link-wrapper'>
-          <div className='footer-link-items'>
+    <div className="footer-container">
+      <div className="footer-links">
+        <div className="footer-link-wrapper">
+          <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Partners</Link>
+            <Link to="/testimonials">Testimonials</Link>
+            <Link to="/about">Lokasi</Link>
           </div>
-          <div className='footer-link-items'>
+          <div className="footer-link-items">
             <h2>Contact Us</h2>
-            <Link to='/'>Whatsapp</Link>
+            <a href="https://wa.wizard.id/Oemah">Whatsapp</a>
           </div>
         </div>
-        <div className='footer-link-wrapper'>
-          <div className='footer-link-items'>
+        <div className="footer-link-wrapper">
+          <div className="footer-link-items">
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Tiktok</Link>
+            <a href="https://www.instagram.com/oemahmanten.99/">Instagram</a>
+            <a href="https://www.tiktok.com/@oemahmanten.99">Tiktok</a>
           </div>
         </div>
       </div>
-      <section className='social-media'>
-        <div className='social-media-wrap'>
-          <div className='footer-logo'>
-            <Link to='/' className='social-logo'>
-            OemahManten            
-          </Link>
-          <small className='address'>Jl. Puspanegara RT.02 RW.08 No.131, Citeureup, Bogor</small>
-
+      <section className="social-media">
+        <div className="social-media-wrap">
+          <div className="footer-logo">
+            <Link to="/" className="social-logo">
+              OemahManten
+            </Link>
+            <small className="address">
+              Jl. Puspanegara RT.02 RW.08 No.131, Citeureup, Bogor
+            </small>
           </div>
-          <small className='website-rights'>Oemah © 2022</small>
-          <div className='social-icons'>
-            <Link
-              className='social-icon-link facebook'
-              to='/'
-              target='_blank'
-              aria-label='Facebook'
+          <small className="website-rights">Oemah © 2022</small>
+          <div className="social-icons">
+            <a
+              href="https://www.tiktok.com/@oemahmanten.99"
+              className="social-icon-link Tiktok"
+              aria-label="tiktok"
             >
-              <i className='fab fa-facebook-f' />
-            </Link>
-            <Link
-              className='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
+             
+              <i className="fab fa-tiktok" />
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UCSl69h4vp4RdIkmCRjlDRmg"
+              className="social-icon-link youtube"
+              aria-label="youtube"
+              
             >
-              <i className='fab fa-instagram' />
-            </Link>
-            <Link
-              className='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
+             
+              <i className="fab fa-youtube" />
+            </a>
+            <a
+              href="https://www.instagram.com/oemahmanten.99/"
+              className="social-icon-link instagram"
+              aria-label="instagram"
             >
-              <i className='fab fa-youtube' />
-            </Link>
-            <Link
-              className='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <i className='fab fa-twitter' />
-            </Link>
             
+              <i className="fab fa-instagram" />
+            </a>
           </div>
         </div>
       </section>
     </div>
   );
+};
 
-}
-
-export default Footer
+export default Footer;

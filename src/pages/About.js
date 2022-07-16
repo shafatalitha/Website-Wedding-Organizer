@@ -5,7 +5,7 @@ export default function About() {
     <div className="content">
       <div class="about">
         <div class="inner-section">
-          <h1>About Us</h1>
+          <h2>About Us</h2>
           <p className="text">
             Oemah Manten adalah perusahaan yang bergerak di bidang perencanaan,
             pengaturan, dan penyelenggaraan pernikahan. Dimulai dari proses
@@ -17,7 +17,7 @@ export default function About() {
           </p>
           <div className="skills">
           <button >
-              <a href="https://wa.wizard.id/78dbb1" target="_blank">
+              <a href="https://wa.wizard.id/Oemah" target="_blank">
                 Contact us <i className="fab fa-whatsapp" />
               </a>
             </button>

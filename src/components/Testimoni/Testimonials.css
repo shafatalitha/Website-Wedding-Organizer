@@ -3,6 +3,10 @@
     margin: auto !important;
     margin-top: 3% !important;
   }
+  .Testimoni{
+    margin-top:10%;
+    margin-bottom: 20%
+  }
   
   .carousel .slide {
     background: #fff !important;
@@ -21,6 +25,7 @@
     width: 54%;
     margin-left: auto;
     margin-right: auto;
+   
     padding-top: 6%;
     padding-bottom: 8%;
     padding-left: 5%;

@@ -2,10 +2,10 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
-function Cards({ refPriceList }) {
+function Cards() {
   return (
-    <div className='cards' id='pricelist' ref={refPriceList}>
-      <h1>PRICELIST</h1>
+    <div className='cards' id='pricelist' >
+      <h2>PRICELIST</h2>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>

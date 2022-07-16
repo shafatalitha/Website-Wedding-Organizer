@@ -14,7 +14,7 @@ export default class Testimonials extends Component {
         autoPlay={true}
         interval={6100}
       >
-        <div>
+        <div className="Testimoni">
           <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657940694/Testimoni/yola_xxjllh.jpg"   alt="paket wedding organizer"/>
           <div className="myCarousel">
             <h3>Yola</h3>
@@ -26,7 +26,7 @@ export default class Testimonials extends Component {
           </div>
         </div>
 
-        <div>
+        <div className="Testimoni">
           <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/ervi_1_ties1t.jpg"   alt="paket wedding organizer" />
           <div className="myCarousel">
             <h3>Ervi</h3>
@@ -37,7 +37,7 @@ export default class Testimonials extends Component {
           </div>
         </div>
 
-        <div>
+        <div className="Testimoni">
           <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/nadia_syfoc7.jpg"   alt="paket wedding organizer"/>
           <div className="myCarousel">
             <h3>Nadia</h3>
