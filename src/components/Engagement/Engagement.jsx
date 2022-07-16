@@ -6,29 +6,29 @@ const Engagement=()=> {
   return (
     <>
     <div className="title">
-        <h1>Engagement Package</h1>
+        <p className="Paket">Engagement Package</p>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="architecture"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_4_wzciox.jpg"
+          alt="engagement"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_3_qsps3h.jpg"
+          alt="engagement"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_2_ei6brc.jpg"
+          alt="engagement"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg "
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_h4rjdz.jpg "
+          alt="engagement"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903691/engagement/engagement_5_lb8k94.jpg"
+          alt="engagement"
         />
       </div>
       <div className="details__items">

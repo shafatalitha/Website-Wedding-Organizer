@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-const Navbar = (refPriceList) => {
+const Navbar = () => {
   const [click, setClick] = useState(false);
   const [ button, setButton] = useState(true);
 

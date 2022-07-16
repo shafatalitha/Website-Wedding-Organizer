@@ -9,34 +9,19 @@ const Footer = () => {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
             <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/'>Partners</Link>
           </div>
           <div className='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/'>Whatsapp</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
-            <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
-          </div>
-          <div className='footer-link-items'>
             <h2>Social Media</h2>
             <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='/'>Tiktok</Link>
           </div>
         </div>
       </div>
@@ -46,6 +31,8 @@ const Footer = () => {
             <Link to='/' className='social-logo'>
             OemahManten            
           </Link>
+          <small className='address'>Jl. Puspanegara RT.02 RW.08 No.131, Citeureup, Bogor</small>
+
           </div>
           <small className='website-rights'>Oemah © 2022</small>
           <div className='social-icons'>

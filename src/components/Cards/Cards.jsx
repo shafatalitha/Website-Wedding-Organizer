@@ -16,13 +16,14 @@ function Cards({ refPriceList }) {
               path='/silver'
             />
             <CardItem
-              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/nikah_zmm45x.jpg'
+            
+              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg'
               text=' Paket Gold Wedding '
               label='IDR 26.000.000'
               path='/gold'
             />
              <CardItem
-              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg'
+              src='https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/nikah_zmm45x.jpg'
               text='Paket Diamond Wedding'
               label='IDR 30.000.000'
               path='/diamond'
@@ -65,7 +66,7 @@ function Cards({ refPriceList }) {
               src='https://res.cloudinary.com/djw882kt3/image/upload/v1655575208/Media/sunda_gdfino.jpg'
               text='Paket Adat Sunda'
               label='Start from IDR 1000.000'
-              path='/sign-up'
+              path='/sunda'
             />
           </ul>
         </div>

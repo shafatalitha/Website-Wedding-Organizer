@@ -1,4 +1,4 @@
-export const jawaData = [
+export const sundaData = [
     {
       icon: (
         <svg width="15" height="13" viewBox="0 0 15 13">

@@ -6,28 +6,28 @@ const Mua=()=> {
   return (
     <>
     <div className="title">
-        <h1>MUA Package</h1>
+        <p className="Paket">MUA Package</p>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="architecture"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_4_djea5j.jpg"
+          alt="Wedding organizer"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src=  "https://res.cloudinary.com/djw882kt3/image/upload/v1657898925/mua/mua_5_ch2ebr.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_1_zzokdp.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg "
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_3_edpx8x.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_d1cpi5.jpg"
           alt="Wedding"
         />
       </div>

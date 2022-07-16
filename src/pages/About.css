@@ -2,14 +2,16 @@
 .about{
     background: url(https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg) no-repeat left;
     background-size: 55%;
-    background-color: #fdfdfd;
+    background-color: #fffff;
     overflow: hidden;
     padding: 100px 0;
+    margin-left:7rem;
+    margin-right: 7rem;
 }
 .inner-section{
     width: 55%;
     float: right;
-    background-color: #fdfdfd;
+    background-color: #ffff;
     padding: 140px;
     box-shadow: 10px 10px 8px rgba(0,0,0,0.3);
 }
@@ -33,10 +35,18 @@
     border-radius: 20px;
     padding: 8px;
     width: 200px;
-    background-color: #00999c;
+    background-color: #25D366 ;
     color: white;
     cursor: pointer;
+    
 }
+
+.skills button a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+  }
 .skills button:hover{
     transition: 1s;
     background-color: #ecf5f5;
@@ -46,12 +56,17 @@
     padding-top: 100px;
 }
 @media screen and (max-width:1200px){
+    
     .inner-section{
         padding: 80px;
     }
 }
 @media screen and (max-width:1000px){
     .about{
+        
+            margin-left:0;
+            margin-right: 0;
+            
         background-size: 100%;
         padding: 100px 40px;
     }
@@ -62,6 +77,8 @@
 
 @media screen and (max-width:600px){
     .about{
+        margin-left:0;
+        margin-right: 0;
         padding: 0;
     }
     .inner-section{

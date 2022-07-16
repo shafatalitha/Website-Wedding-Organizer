@@ -6,28 +6,28 @@ const Dokumentasi=()=> {
   return (
     <>
     <div className="title">
-        <h1>Dokumentasi Package</h1>
+        <p className="Paket">Dokumentasi Package</p>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_4_asjthr.jpg"
           alt="architecture"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_2_jil39t.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_1_fzxg0j.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg "
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_y2pxn5.jpg "
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_6_vbhsam.jpg"
           alt="Wedding"
         />
       </div>

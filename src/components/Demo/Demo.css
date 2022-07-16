@@ -5,8 +5,9 @@
 }
 
 .demo .container {
-    width: 1110px;
+    width: 1105px;
     margin: auto;
+    padding-bottom:100px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
@@ -24,12 +25,12 @@
 
 .demo .col-1 p:nth-child(2) {
     font-size: 3rem;
-    font-weight: 600;
+    font-weight: 500;
     margin: .5rem 0;
 }
 
 .demo .col-1 p:nth-child(3) {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 1rem;
 }
 

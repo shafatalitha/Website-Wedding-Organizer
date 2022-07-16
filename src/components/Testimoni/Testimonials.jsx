@@ -17,11 +17,11 @@ export default class Testimonials extends Component {
         <div>
           <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-2_zk417c.jpg" />
           <div className="myCarousel">
-            <h3>Shirley Fultz</h3>
-            <h4>Designer</h4>
+            <h3>Andin</h3>
+            <h4>Paket Gold</h4>
             <p>
-              It's freeing to be able to catch up on customized news and not be
-              distracted by a social media element on the same site
+             Terima kasih banyak, dekorasi bagus, aku juga suka banget sama hasil make up nya, 
+             mohon maaf jika ada kata yang kurang berkenan, semoga sukses selalu
             </p>
           </div>
         </div>

@@ -6,28 +6,28 @@ const Jawa=()=> {
   return (
     <>
     <div className="title">
-        <h1>Adat Jawa Package</h1>
+        <p className="Paket">Adat Jawa Package</p>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_5_tql6ss.jpg"
           alt="architecture"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_4_b6uzf2.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_3_l5svx7.jpg"
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg "
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_1_wreug1.jpg "
           alt="Wedding"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657938265/Jawa/jawa_6_zpcuhz.jpg"
           alt="Wedding"
         />
       </div>

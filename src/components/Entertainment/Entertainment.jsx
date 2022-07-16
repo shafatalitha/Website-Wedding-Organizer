@@ -6,7 +6,7 @@ const Entertainment=()=> {
   return (
     <>
     <div className="title">
-        <h1>Entertainment Package</h1>
+        <p className="Paket">Entertainment Package</p>
       </div>
       <div className="image-grid">
         <img

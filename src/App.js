@@ -14,6 +14,7 @@ import Entertainment from "./components/Entertainment/Entertainment"
 import Engagement from "./components/Engagement/Engagement"
 import Dokumentasi from "./components/Dokumentasi/Dokumentasi"
 import Jawa from "./components/Jawa/Jawa"
+import Sunda from "./components/Sunda/Sunda"
 
 function App() {
 
@@ -34,6 +35,7 @@ function App() {
           <Route path ="/engagement" element={<Engagement/>}/>
           <Route path ="/dokumentasi" element={<Dokumentasi/>}/>
           <Route path ="/jawa" element={<Jawa/>}/>
+          <Route path ="/sunda" element={<Sunda/>}/>
         </Routes>
         <Footer/>
         
