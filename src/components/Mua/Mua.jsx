@@ -12,40 +12,55 @@ const Mua=()=> {
         <title> paket wedding organizer </title>
         <meta
           name="description"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
-           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <meta
           name="keyword"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
-          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/mua"></link>
+        <link rel="canonical" href="/pricelist/paket-mua"></link>
       </Helmet>
     <div className="title">
-        <p className="Paket">MUA Package</p>
+        <h1 className="Paket">Paket MUA Oemah Manten</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_4_djea5j.jpg"
-          alt="Wedding organizer"
+          alt="paket pernikahan wedding organizer"
+           title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src=  "https://res.cloudinary.com/djw882kt3/image/upload/v1657898925/mua/mua_5_ch2ebr.jpg"
-          alt="Wedding"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_1_zzokdp.jpg"
-          alt="Wedding"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_3_edpx8x.jpg"
-          alt="Wedding"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657898753/mua/mua_d1cpi5.jpg"
-          alt="Wedding"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
       </div>
       <div className="details__items">

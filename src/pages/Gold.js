@@ -18,7 +18,7 @@ const Gold = () => {
           content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
           prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/gold"></link>
+        <link rel="canonical" href="/pricelist/paket-gold"></link>
       </Helmet>
 
     <Details/>

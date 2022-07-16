@@ -10,48 +10,53 @@ const Diamond = () => {
         <title>paket wedding organizer </title>
         <meta
           name="description"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
-           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <meta
           name="keyword"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
-          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/diamond"></link>
+        <link rel="canonical" href="/pricelist/paket-diamond"></link>
       </Helmet>
       <div className="title">
-        <h1 className="Paket">Paket Diamond</h1>
+        <h1 className="Paket">Paket Diamond Oemah Manten</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_hggxro.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
           width={50}
           height={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/DIamond_3_iedyr3.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
           width={50}
           height={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_2_sbulog.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
           width={50}
           height={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895352/Diamond/diamond_5_mwyrdf.jpg "
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
           width={50}
           height={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_4_x8p3ab.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
           width={50}
           height={50}
         />

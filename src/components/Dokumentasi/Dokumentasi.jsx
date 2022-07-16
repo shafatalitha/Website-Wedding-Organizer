@@ -11,40 +11,55 @@ const Dokumentasi=()=> {
         <title>paket wedding organizer</title>
         <meta
           name="description"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
-           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <meta
           name="keyword"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
-          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/dokumentasi"></link>
+        <link rel="canonical" href="/pricelist/paket-dokumentasi"></link>
       </Helmet>
     <div className="title">
-        <p className="Paket">Dokumentasi Package</p>
+        <h1 className="Paket">Paket Dokumentasi Oemah Manten</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_4_asjthr.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_2_jil39t.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_1_fzxg0j.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_y2pxn5.jpg "
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_6_vbhsam.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
       </div>
       <div className="details__items">

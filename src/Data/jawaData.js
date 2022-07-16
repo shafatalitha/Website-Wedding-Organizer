@@ -22,7 +22,7 @@ export const jawaData = [
           {" "}
         </svg>
       ),
-      name: "Paket jawa B",
+      name: "Paket Adat jawa B",
       price:"3000.000",
       features: [
         "MC Akad",

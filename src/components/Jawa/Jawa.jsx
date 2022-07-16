@@ -11,40 +11,55 @@ const Jawa=()=> {
         <title>paket wedding organizer </title>
         <meta
           name="description"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
-           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <meta
           name="keyword"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
-          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/mua"></link>
+        <link rel="canonical" href="/pricelist/adat-jawa"></link>
       </Helmet>
     <div className="title">
-        <p className="Paket">Adat Jawa Package</p>
+        <h1 className="Paket">Paket Pernikahan Adat Jawa</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_5_tql6ss.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_4_b6uzf2.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_3_l5svx7.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937995/Jawa/jawa_1_wreug1.jpg "
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657938265/Jawa/jawa_6_zpcuhz.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
       </div>
       <div className="details__items">

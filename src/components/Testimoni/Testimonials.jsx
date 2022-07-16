@@ -36,7 +36,8 @@ export default class Testimonials extends Component {
               src="https://res.cloudinary.com/djw882kt3/image/upload/v1657940694/Testimoni/yola_xxjllh.jpg"
               height={100}
               width={50}
-              alt="paket wedding organizer"
+              alt="paket pernikahan wedding organizer"
+              title="paket pernikahan wedding organizer"
             />
             <div className="myCarousel">
               <h3>Yola</h3>
@@ -53,7 +54,8 @@ export default class Testimonials extends Component {
               src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/ervi_1_ties1t.jpg"
               height={100}
               width={50}
-              alt="paket wedding organizer"
+              alt="paket pernikahan wedding organizer"
+              title="paket pernikahan wedding organizer"
             />
             <div className="myCarousel">
               <h3>Ervi</h3>
@@ -70,7 +72,8 @@ export default class Testimonials extends Component {
               src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/nadia_syfoc7.jpg"
               height={100}
               width={50}
-              alt="paket wedding organizer"
+              alt="paket pernikahan wedding organizer"
+              title="paket pernikahan wedding organizer"
             />
             <div className="myCarousel">
               <h3>Nadia</h3>

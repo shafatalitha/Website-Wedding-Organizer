@@ -24,7 +24,7 @@ function CardItem(props) {
           <figure className='cards__item__pic-wrap' data-category={props.label}>
             <img
               className='cards__item__img'
-              alt='Paket Wedding'
+              alt="harga wedding organizer"
               src={props.src}
               height= "40"
               width="40"

@@ -11,34 +11,55 @@ const Entertainment = () => {
         <title>paket wedding organizer</title>
         <meta
           name="description"
-          content="Jasa Wedding organizer murah di Bogor, menyediakan pilihan paket untuk tunangan,prewedding dan pernikahan adat maupun modern  "
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/entertainment"></link>
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <link rel="canonical" href="/pricelist/paket-entertainment"></link>
       </Helmet>
       <div className="title">
-        <p className="Paket">Entertainment Package</p>
+        <h1 className="Paket">Paket Entertainment Oemah Manten</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657943099/entertainment/entertainment_1_mvc831.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer	"
+          height={50}
+          width={50}
+          title="paket pernikahan wedding organizer	"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657943099/entertainment/entertainment_qlmyjc.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer	"
+          height={50}
+          width={50}
+          title="paket pernikahan wedding organizer	"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657943099/entertainment/entertainment_4_wp9hxs.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer	"
+          height={50}
+          width={50}
+          title="paket pernikahan wedding organizer	"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657943098/entertainment/entertainment_3_zotmgi.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer	"
+          height={50}
+          width={50}
+          title="paket pernikahan wedding organizer	"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657943098/entertainment/entertainment_2_luofgv.jpg"
           alt="paket wedding organizer"
+          height={50}
+          width={50}
+          title="Paket pernikahan"
         />
       </div>
       <div className="details__items">

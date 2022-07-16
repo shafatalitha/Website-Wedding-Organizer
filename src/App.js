@@ -27,15 +27,15 @@ function App() {
           <Route path ="/testimoni" element={<Testimonials/>}/>
           <Route path="/pricelist" element={<Cards/>}/>
           <Route path="/" element={<Home/>} />
-          <Route path="/gold" element={<Gold />} />
-          <Route path="/diamond" element={<Diamond/>}/>
-          <Route path ="/silver" element={<Silver/>}/>
-          <Route path ="/mua" element={<Mua/>}/>
-          <Route path ="/entertainment" element={<Entertainment/>}/>
-          <Route path ="/engagement" element={<Engagement/>}/>
-          <Route path ="/dokumentasi" element={<Dokumentasi/>}/>
-          <Route path ="/jawa" element={<Jawa/>}/>
-          <Route path ="/sunda" element={<Sunda/>}/>
+          <Route path="/pricelist/paket-gold" element={<Gold />} />
+          <Route path="/pricelist/paket-diamond" element={<Diamond/>}/>
+          <Route path ="/pricelist/paket-silver" element={<Silver/>}/>
+          <Route path ="/pricelist/paket-mua" element={<Mua/>}/>
+          <Route path ="/pricelist/paket-entertainment" element={<Entertainment/>}/>
+          <Route path ="/pricelist/paket-engagement" element={<Engagement/>}/>
+          <Route path ="/pricelist/paket-dokumentasi" element={<Dokumentasi/>}/>
+          <Route path ="/pricelist/adat-jawa" element={<Jawa/>}/>
+          <Route path ="/pricelist/adat-sunda" element={<Sunda/>}/>
         </Routes>
         <Footer/>
         

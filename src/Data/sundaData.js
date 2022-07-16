@@ -5,14 +5,14 @@ export const sundaData = [
           {" "}
         </svg>
       ),
-      name: " Paket Adat Jawa A",
-      price: "5000.000",
+      name: " Paket Adat Sunda A",
+      price: "3500.000",
       features: [
          "MC Akad",
-         "Adat jawa",
-         "Cucuk lampah",
-         "Kembar mayang",
-         "Tuwuhan"
+         "Adat Sunda",
+         "Sawer",
+         "Lengser",
+         "Penari 4"
   
       ],
     },
@@ -22,12 +22,12 @@ export const sundaData = [
           {" "}
         </svg>
       ),
-      name: "Paket jawa B",
-      price:"3000.000",
+      name: "Paket Adat Sunda B",
+      price:"1200.000",
       features: [
         "MC Akad",
-        "Adat jawa",
-        "Cucuk lampah",
+        "Adat Sunda",
+        "Sawer",
       ],
       
     },

@@ -11,40 +11,55 @@ const Engagement=()=> {
         <title> paket wedding organizer </title>
         <meta
           name="description"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
-           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <meta
           name="keyword"
-          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
-          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
-        <link rel="canonical" href="/engagement"></link>
+        <link rel="canonical" href="/pricelist/paket-engagement"></link>
       </Helmet>
     <div className="title">
-        <p className="Paket">Engagement Package</p>
+        <h1 className="Paket">Paket Tunangan Oemah Manten</h1>
       </div>
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_4_wzciox.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_3_qsps3h.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_2_ei6brc.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903079/engagement/engagement_h4rjdz.jpg "
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657903691/engagement/engagement_5_lb8k94.jpg"
-          alt="paket wedding organizer"
+          alt="paket pernikahan wedding organizer"
+          title="paket pernikahan wedding organizer"
+          height={50}
+          width={50}
         />
       </div>
       <div className="details__items">
