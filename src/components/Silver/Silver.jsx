@@ -12,23 +12,23 @@ const Silver =()=> {
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657891427/Silver/silver_2_b6pztg.jpg"
-          alt="Wedding Organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657891488/Silver/silver_5_puhyre.jpg"
-          alt="Wedding Organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657891433/Silver/silver_3_dextx3.jpg"
-          alt="Wedding Organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657891440/Silver/silver_4_g6xetb.jpg"
-          alt="Wedding Organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657891420/Silver/silver_cfhkvg.jpg"
-          alt="Wedding Organizer"
+          alt="paket wedding organizer"
         />
       </div>
       <div className="details__items">

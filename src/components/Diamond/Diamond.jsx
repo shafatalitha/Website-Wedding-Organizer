@@ -12,23 +12,23 @@ const Diamond = () => {
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_hggxro.jpg"
-          alt="Wedding organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/DIamond_3_iedyr3.jpg"
-          alt="Wedding organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_2_sbulog.jpg"
-          alt="Wedding organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895352/Diamond/diamond_5_mwyrdf.jpg "
-          alt="Wedding organizer"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657895351/Diamond/Diamond_4_x8p3ab.jpg"
-          alt="Wedding organizer"
+          alt="paket wedding organizer"
         />
       </div>
       <div className="details__items">

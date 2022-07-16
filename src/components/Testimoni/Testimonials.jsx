@@ -15,37 +15,35 @@ export default class Testimonials extends Component {
         interval={6100}
       >
         <div>
-          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-2_zk417c.jpg" />
+          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657940694/Testimoni/yola_xxjllh.jpg"   alt="paket wedding organizer"/>
           <div className="myCarousel">
-            <h3>Andin</h3>
-            <h4>Paket Gold</h4>
+            <h3>Yola</h3>
+            <h4>Paket Diamond</h4>
             <p>
              Terima kasih banyak, dekorasi bagus, aku juga suka banget sama hasil make up nya, 
-             mohon maaf jika ada kata yang kurang berkenan, semoga sukses selalu
+             sukses selalu untuk Oemah Manten
             </p>
           </div>
         </div>
 
         <div>
-          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-2_zk417c.jpg" />
+          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/ervi_1_ties1t.jpg"   alt="paket wedding organizer" />
           <div className="myCarousel">
-            <h3>Daniel Keystone</h3>
-            <h4>Designer</h4>
+            <h3>Ervi</h3>
+            <h4>Paket Gold</h4>
             <p>
-              The simple and intuitive design makes it easy for me use. I highly
-              recommend Fetch to my peers.
+              Alhamdulillah, Acara berjalan lancar, terima kasih untuk bantuannya Oemah Manten
             </p>
           </div>
         </div>
 
         <div>
-          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1655573318/Media/nikah-2_zk417c.jpg" />
+          <img src="https://res.cloudinary.com/djw882kt3/image/upload/v1657941248/Testimoni/nadia_syfoc7.jpg"   alt="paket wedding organizer"/>
           <div className="myCarousel">
-            <h3>Theo Sorel</h3>
-            <h4>Designer</h4>
+            <h3>Nadia</h3>
+            <h4>Paket Gold</h4>
             <p>
-              I enjoy catching up with Fetch on my laptop, or on my phone when
-              I'm on the go!
+              Acara berjalan lancar, semua jadi Happy! Thank you Oemah Manten!
             </p>
           </div>
         </div>

@@ -11,24 +11,24 @@ const Sunda=()=> {
       <div className="image-grid">
         <img
           className="image-grid-col-2 image-grid-row-2"
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="architecture"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657939429/Sunda/sunda_1_abpdr1.jpg"
+          alt="paket wedding organizer"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657939429/Sunda/sunda_2_bhtwcg.jpg"
+          alt="paket wedding organizer"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657939429/Sunda/sunda_4_hqcvm3.jpg"
+          alt="paket wedding organizer"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg "
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657939429/Sunda/sunda_5_exvkyt.jpg"
+          alt="paket wedding organizer"
         />
         <img
-          src="https://res.cloudinary.com/djw882kt3/image/upload/v1655566641/Media/bogor_gucmol.jpg"
-          alt="Wedding"
+          src="https://res.cloudinary.com/djw882kt3/image/upload/v1657939429/Sunda/sunda_3_mtjbns.jpg"
+          alt="paket wedding organizer"
         />
       </div>
       <div className="details__items">

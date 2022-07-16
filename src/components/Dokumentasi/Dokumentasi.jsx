@@ -12,23 +12,23 @@ const Dokumentasi=()=> {
         <img
           className="image-grid-col-2 image-grid-row-2"
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_4_asjthr.jpg"
-          alt="architecture"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_2_jil39t.jpg"
-          alt="Wedding"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_1_fzxg0j.jpg"
-          alt="Wedding"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_y2pxn5.jpg "
-          alt="Wedding"
+          alt="paket wedding organizer"
         />
         <img
           src="https://res.cloudinary.com/djw882kt3/image/upload/v1657937045/Dokumentasi/dokumentasi_6_vbhsam.jpg"
-          alt="Wedding"
+          alt="paket wedding organizer"
         />
       </div>
       <div className="details__items">
