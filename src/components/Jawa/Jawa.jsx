@@ -2,9 +2,25 @@ import React from "react";
 import "../Plans/Plans.css";
 import { jawaData } from "../../Data/jawaData"
 import "../Diamond/Diamond.css"
+import { Helmet } from "react-helmet-async";
+
 const Jawa=()=> {
   return (
     <>
+    <Helmet>
+        <title>paket wedding organizer </title>
+        <meta
+          name="description"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
+           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
+          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <link rel="canonical" href="/mua"></link>
+      </Helmet>
     <div className="title">
         <p className="Paket">Adat Jawa Package</p>
       </div>

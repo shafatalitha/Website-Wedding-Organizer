@@ -11,9 +11,15 @@ export default class Testimonials extends Component {
         <Helmet>
           <title>wedding organizer Bogor</title>
           <meta
-            name="description"
-            content="Jasa Wedding organizer murah di Bogor, menyediakan pilihan paket untuk tunangan,prewedding dan pernikahan adat maupun modern  "
-          />
+          name="description"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
           <link rel="canonical" href="/testimoni"></link>
         </Helmet>
         <h1 className="judul-testimoni">Testimoni Pelanggan Oemah Manten</h1>

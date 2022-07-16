@@ -7,10 +7,16 @@ const Diamond = () => {
   return (
     <>
       <Helmet>
-        <title>wedding organizer Bogor</title>
+        <title>paket wedding organizer </title>
         <meta
           name="description"
-          content="Jasa Wedding organizer murah di Bogor, menyediakan pilihan paket untuk tunangan,prewedding dan pernikahan adat maupun modern  "
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
+           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
+          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
         />
         <link rel="canonical" href="/diamond"></link>
       </Helmet>

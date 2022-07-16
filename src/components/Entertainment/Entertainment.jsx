@@ -1,11 +1,21 @@
 import React from "react";
 import "../Plans/Plans.css";
-import { entertainmentData } from "../../Data/entertainmentData"
-import "../Diamond/Diamond.css"
-const Entertainment=()=> {
+import { entertainmentData } from "../../Data/entertainmentData";
+import "../Diamond/Diamond.css";
+import { Helmet } from "react-helmet-async";
+
+const Entertainment = () => {
   return (
     <>
-    <div className="title">
+      <Helmet>
+        <title>paket wedding organizer</title>
+        <meta
+          name="description"
+          content="Jasa Wedding organizer murah di Bogor, menyediakan pilihan paket untuk tunangan,prewedding dan pernikahan adat maupun modern  "
+        />
+        <link rel="canonical" href="/entertainment"></link>
+      </Helmet>
+      <div className="title">
         <p className="Paket">Entertainment Package</p>
       </div>
       <div className="image-grid">
@@ -32,28 +42,31 @@ const Entertainment=()=> {
         />
       </div>
       <div className="details__items">
-      <div className="details__item"></div>
+        <div className="details__item"></div>
       </div>
-    
-    <div className="plans-container">
-      <div className="plans">
-        {entertainmentData.map((plan, i) => (
-          <div className="plan" key={i}>
-            {plan.icon}
-            <span>{plan.name}</span>
-            <span>{plan.price}</span>
-            <div className="features">
-              {plan.features.map((feature, i) => (
-                <div className="feature">
-                  <span key={i}><i className="fas fa-check" id="check"/>{feature}</span>
-                </div>
-              ))}
+
+      <div className="plans-container">
+        <div className="plans">
+          {entertainmentData.map((plan, i) => (
+            <div className="plan" key={i}>
+              {plan.icon}
+              <span>{plan.name}</span>
+              <span>{plan.price}</span>
+              <div className="features">
+                {plan.features.map((feature, i) => (
+                  <div className="feature">
+                    <span key={i}>
+                      <i className="fas fa-check" id="check" />
+                      {feature}
+                    </span>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
-    </div>
-      </>
+    </>
   );
 };
 

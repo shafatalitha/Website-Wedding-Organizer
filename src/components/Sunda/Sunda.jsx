@@ -2,9 +2,25 @@ import React from "react";
 import "../Plans/Plans.css";
 import { sundaData } from "../../Data/sundaData"
 import "../Diamond/Diamond.css"
+import { Helmet } from "react-helmet-async";
+
 const Sunda=()=> {
   return (
     <>
+    <Helmet>
+        <title>paket wedding organizer</title>
+        <meta
+          name="description"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer,
+           biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK, jasa wedding organizer, paket wedding organizer, 
+          biaya wedding organizer, prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <link rel="canonical" href="/sunda"></link>
+      </Helmet>
     <div className="title">
         <p className="Paket">Adat Sunda Package</p>
       </div>

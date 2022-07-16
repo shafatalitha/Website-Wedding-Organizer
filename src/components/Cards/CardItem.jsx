@@ -6,7 +6,16 @@ function CardItem(props) {
     <>
     <Helmet>
       <title>harga wedding organizer</title>
-      <meta name="description" content="Harga wedding organizer murah dan terpercaya di Bogor"/>
+      <meta
+          name="description"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,paket wedding organizer,
+         prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
+        <meta
+          name="keyword"
+          content="wedding organizer murah, wedding organizer Bogor, wedding organizer JABODETABEK,  paket wedding organizer, 
+          prewedding Bogor, prewedding JABODETABEK, prewedding murah"
+        />
       <link rel='canonical' href="/pricelist"></link>
 
     </Helmet>
