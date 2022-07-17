@@ -23,15 +23,15 @@ export default function About() {
     <div className="content">
       <div class="about">
         <div class="inner-section">
-          <h1>Sejarah singkat Oemah Manten</h1>
+          <h1>Sejarah singkat < a href="https://wedding-organizer-oemah-manten.vercel.app/">Oemah Manten</a></h1>
           <p className="text">
             Oemah Manten adalah perusahaan yang bergerak di bidang perencanaan,
             pengaturan, dan penyelenggaraan pernikahan. Dimulai dari proses
             pembuatan konsep, perencanaan, persiapan, eksekusi, hingga rangkaian
             acara selesai. Didirikan pada tahun 2016, Oemah Manten telah
-            menyelesaikan lebih dari 100 pernikahan mulai dari Foto pre-wedding,
+            menyelesaikan lebih dari 100 <a href="https://id.wikipedia.org/wiki/Pernikahan">pernikahan</a> mulai dari Foto <a href="https://www.orami.co.id/magazine/foto-prewedding">prewedding</a>,
             tunangan, hingga acara resepsi. Oemah Manten berlokasi di Citeureup, Kabupaten Bogor.
-            Oemah Manten melayani acara pernikahan untuk wilayah JABODETABEK.
+            Oemah Manten melayani acara pernikahan untuk wilayah <a href="https://id.wikipedia.org/wiki/Portal:Jabodetabek" >JABODETABEK</a>.
           </p>
           <div className="skills">
           <button >

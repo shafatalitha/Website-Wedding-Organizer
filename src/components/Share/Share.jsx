@@ -17,7 +17,7 @@ import {
 
 export default class Share extends Component {
   render() {
-    const shareUrl = 'https://vercel.com/shafatalitha/wedding-organizer-oemah-manten';
+    const shareUrl = 'https://wedding-organizer-oemah-manten.vercel.app/';
     return (
       <div style={{
         background: '#0000',

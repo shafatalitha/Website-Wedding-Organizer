@@ -22,12 +22,20 @@
     text-align: center;
 
 }
+.inner-section h1 a{
+    text-decoration:none;
+    color: #141414;
+
+}
 .text{
     font-size: 13px;
-    color: #545454;
+    color: #141414;
     line-height: 30px;
     text-align: justify;
     margin-bottom: 40px;
+}
+.text a{
+    text-decoration: none;
 }
 .skills button{
     font-size: 22px;
@@ -49,10 +57,9 @@
     color: #fff;
     text-decoration: none;
   }
-.skills button:hover{
+.skills button :hover{
     transition: 1s;
-    background-color: #ecf5f5;
-    color: #00999c;
+    color: #128C7E;
 }
 .Peta{
     padding-top: 100px;

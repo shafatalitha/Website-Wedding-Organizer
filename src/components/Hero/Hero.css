@@ -36,15 +36,21 @@
 
 }
 
+.main__content a {
+  text-decoration: none;
+  font-weight:300;
+ color:#141414;
 
-.main__content p {
+}
+
+/* .main__content p {
   font-size: 1rem;
   margin-top: 8px;
   font-weight: 300;
   color: #141414 ;
   
   
-}
+} */
 
 .main__btn {
   font-size: 1rem;
