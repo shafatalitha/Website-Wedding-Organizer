@@ -8,14 +8,13 @@ const Hero = () => {
         <div className="main__container">
           <div className="main__content">
             <h1>Wedding Organizer Murah di Bogor</h1>
-            {/* <h2>Oemah Manten</h2> */}
-            <p>
-              OemahManten adalah penyedia jasa untuk memudahkan <br/> anda 
-              dalam menyiapkan pernikahan. kami menyediakan berbagai
-              paket pernikahan dengan harga terjangkau
-            </p>
+            <h2>
+              Oemah Manten adalah penyedia jasa wedding organizer<br/>untuk memudahkan anda 
+              dalam menyiapkan pernikahan.<br/> kami menyediakan berbagai
+              paket pernikahan dengan<br/> harga terjangkau
+            </h2>
             <button className="main__btn">
-              <a href="https://wa.wizard.id/Oemah" target="_blank">
+              <a href="https://wa.wizard.id/Oemah" >
                 Contact us <i className="fab fa-whatsapp" />
               </a>
             </button>
