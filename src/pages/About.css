@@ -16,15 +16,25 @@
     box-shadow: 10px 10px 8px rgba(0,0,0,0.3);
 }
 .inner-section h1{
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-size: 30px;
     font-weight: 900;
-    text-align: center;
+    text-align:center;
+    
 
 }
+
 .inner-section h1 a{
     text-decoration:none;
     color: #141414;
+
+}
+.inner-section h2{
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: 900;
+    text-align:center;
+    
 
 }
 .text{
