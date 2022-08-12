@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="main__content">
             <h1>Wedding Organizer Murah di Bogor</h1>
             <h2>
-              Oemah Manten adalah jasa <a href="https://www.ruangmom.com/wedding-organizer.html">wedding organizer </a>yang berlokasi <br/>di <a href="https://id.wikipedia.org/wiki/Kabupaten_Bogor">Kabupaten Bogor</a>. Kami bertugas untuk 
+              Oemah Manten adalah jasa wedding organizer yang berlokasi <br/>di Kabupaten Bogor. Kami bertugas untuk 
               memudahkan anda dalam menyiapkan pernikahan. kami menyediakan berbagai paket pernikahan dengan
               dengan harga terjangkau
             </h2>

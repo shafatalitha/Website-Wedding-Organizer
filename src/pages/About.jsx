@@ -22,39 +22,25 @@ export default function About() {
       <div className="content">
         <div class="about">
           <div class="inner-section">
-            <h1>
-              Sejarah Singkat
-              <a href="https://wedding-organizer-oemah-manten.vercel.app/">
-                {" "}
-                Oemah Manten
-              </a>{" "}
-            </h1>
+            <h1>Sejarah Singkat Oemah Manten</h1>
             <p className="text">
               Oemah Manten adalah badan usaha yang bergerak di bidang
               perencanaan, pengaturan, dan penyelenggaraan pernikahan yang
               berlokasi di Citeurep, Kabupaten Bogor. Sejak tahun 2016, kami
-              melayani seluruh keperluan
-              <a href="https://id.wikipedia.org/wiki/Pernikahan">
-                {" "}
-                pernikahan{" "}
-              </a>
-              mulai dari Foto{" "}
-              <a href="https://www.orami.co.id/magazine/foto-prewedding">
-                Prewedding
-              </a>
-              , Tunangan, Make up, Upacara Adat, dan sebagainya. Oemah Manten
-              juga melayani acara pernikahan untuk seluruh wilayah{" "}
-              <a href="https://id.wikipedia.org/wiki/Portal:Jabodetabek">
-                JABODETABEK
-              </a>
-              .
+              melayani seluruh keperluan pernikahan mulai dari Foto Prewedding ,
+              Tunangan, Make up, Upacara Adat, dan sebagainya. Oemah Manten juga
+              melayani acara pernikahan untuk seluruh wilayah JABODETABEK .
             </p>
             <h2>Visi dan Misi</h2>
             <p className="text">
-              Menjadi <a href="https://www.ruangmom.com/wedding-organizer.html">wedding organizer</a> terdepan dan terpercaya serta, memberikan pelayanan yang optimal,
-              tenaga kerja yang kompeten di bidang nya dalam
-              merencanakan dan mengelola acara pesta pernikahan maupun event
-              yang berkesan/sempurna.
+              Menjadi{" "}
+              <a href="https://www.ruangmom.com/wedding-organizer.html">
+                wedding organizer
+              </a>{" "}
+              terdepan dan terpercaya serta, memberikan pelayanan yang optimal,
+              tenaga kerja yang kompeten di bidang nya dalam merencanakan dan
+              mengelola acara pesta pernikahan maupun event yang
+              berkesan/sempurna.
             </p>
 
             <div className="skills">
