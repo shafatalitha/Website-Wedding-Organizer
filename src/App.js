@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar/Navbar"
 import Home from "./pages/Home"
 import "./App.css"
+import Cards from "./components/Cards/Cards"
 import About from "./pages/About"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer/Footer"
-import Cards from "./components/Cards/Cards"
 import Gold from "./pages/Gold"
 import Testimonials from "./components/Testimoni/Testimonials"
 import Diamond from "./components/Diamond/Diamond"
@@ -25,7 +25,7 @@ function App() {
         <Routes>       
           <Route path="/about-us" element={<About />} />
           <Route path ="/testimoni" element={<Testimonials/>}/>
-          <Route path="/pricelist" element={<Cards/>}/>
+          <Route path ="/pricelist" element={<Cards/>}/>
           <Route path="/" element={<Home/>} />
           <Route path="/pricelist/paket-gold" element={<Gold />} />
           <Route path="/pricelist/paket-diamond" element={<Diamond/>}/>

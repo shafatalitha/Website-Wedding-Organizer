@@ -33,14 +33,10 @@ export default function About() {
             </p>
             <h2>Visi dan Misi</h2>
             <p className="text">
-              Menjadi{" "}
-              <a href="https://www.ruangmom.com/wedding-organizer.html">
-                wedding organizer
-              </a>{" "}
-              terdepan dan terpercaya serta, memberikan pelayanan yang optimal,
-              tenaga kerja yang kompeten di bidang nya dalam merencanakan dan
-              mengelola acara pesta pernikahan maupun event yang
-              berkesan/sempurna.
+              Menjadi wedding organizer terdepan dan terpercaya serta,
+              memberikan pelayanan yang optimal, tenaga kerja yang kompeten di
+              bidang nya dalam merencanakan dan mengelola acara pesta pernikahan
+              maupun event yang berkesan/sempurna.
             </p>
 
             <div className="skills">
