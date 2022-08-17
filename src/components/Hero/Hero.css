@@ -110,7 +110,7 @@ border-radius: 20px;
       justify-self: center;
       width: 100%;
       margin: 0 auto;
-      height: 180vh;
+      height: 100vh;
       
   }
 
@@ -131,7 +131,7 @@ border-radius: 20px;
 
   @media screen and (max-width: 480px) {
     .main__container {
-      height: 200vh;
+      height: 150vh;
   }
       .main-content h1 {
           font-size: 2rem;
